@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @YIMXL
 - 👀 I’m interested in High Speed PCB Design 
-- 🌱 I’m currently learning High Speed PCB Design 
+- 🌱 I’m currently learning more about High Speed PCB Design 
 - 💞️ I’m looking to collaborate on Something Tiny but Big 
 - 📫 How to reach me superyims@hotmail.com 
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I hate Marmit!
+- ⚡ Fun fact: I hate MARMIT!
 
 <!---
 YIMXL/YIMXL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
